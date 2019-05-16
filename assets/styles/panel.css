@@ -1,0 +1,29 @@
+.panel {
+	
+}
+
+.panel__title {
+	font-size: 30px;
+	color: purple;
+
+}
+
+.panel__main-text {
+	color: black;
+	font-size: 24px;
+	
+}
+
+.panel__text {
+	color: grey;
+	font-size: 14px;
+}
+
+.panel__list {
+	padding: 0;
+	margin: 17px;
+}
+
+.panel__list li {
+	color: grey;
+}

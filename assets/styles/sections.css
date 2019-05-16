@@ -1,0 +1,40 @@
+@media screen and (max-width: 767px) {
+	.section-1 {
+	}
+
+	.section-2 {
+		background-color: #faf8fb;
+	}
+
+	.cart {
+		border-radius: 15px;
+		padding: 35px 25px 30px 25px;
+	}
+
+	.cart__questions {
+		margin-bottom: 10px;
+		font-size: 13px;
+		font-family: Myriad Pro;
+	}
+	
+	.cart__take-answer {
+		margin-bottom: 35px;
+		font-size: 16px;
+	}
+
+	.cart__btn {
+		text-transform: uppercase;
+		font-size: 16px;
+		padding: 20px 80px;
+	}
+
+	.stamp__text {
+		margin-bottom: 30px;
+	}
+
+	.stamp__btn {
+		text-transform: uppercase;
+		font-size: 16px;
+		padding: 18px 60px;
+	}
+}
